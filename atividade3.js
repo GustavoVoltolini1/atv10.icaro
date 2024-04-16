@@ -1,5 +1,6 @@
 
 function balancoFinanceiroAnual() {
+    
     let ganhoAnual = 0;
     let gastoAnual = 0;
 
